@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## I am Abhishek Mishra
-
+![](https://komarev.com/ghpvc/?username=abhishek3042&color=green)
 <!--
 **abhishek3042/abhishek3042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
