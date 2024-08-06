@@ -11,7 +11,7 @@
 <br/>
 
  
-
+![](https://komarev.com/ghpvc/?username=abhishek3042&color=green)
   
   # About me:
    <img align="right"  width="400px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNxams2cmFnbXFoaDEyYm8yaTExbmk5bHA2dXIybGV2cjZ2YmdsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
