@@ -1,27 +1,35 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 <h1 align="center">Hi there, <img width="60px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>I am Abhishek Mishra </h1>
+<br/>
+   <p align="center" color:"red">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Abhishek Mishra 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Programming 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p>
 
-![](https://komarev.com/ghpvc/?username=abhishek3042&color=green)
 
-<div display="flex">
-  <img align="right"  width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNxams2cmFnbXFoaDEyYm8yaTExbmk5bHA2dXIybGV2cjZ2YmdsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
-  <br>
-  <br>
+<br/>
+<br/>
+
+ 
+
   
   # About me:
-  <p>
-    - 🔭 I’m currently working on ... <br>
-    - 🌱 I’m currently learning **HTML, CSS, JavaScript & React** <br>
-    - 👯 I’m looking to collaborate on Various Projects Realted to Mern Stack  <br>
-    - 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/abskmsra/)  <br>
-    - ⚡ Fun fact: I can cook a mean pasta and enjoy coding while listening to motivational podcasts! <br> 
-  </p>
+   <img align="right"  width="400px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNxams2cmFnbXFoaDEyYm8yaTExbmk5bHA2dXIybGV2cjZ2YmdsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
+  
+  - 🔭 I’m currently pursuing **Full Stack Web Development** at **MASAI SCHOOL**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **MERN Stack Project**
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abskmsra/)
+
+- 💬 ask me about anything
+
+- 😁 Fun Fact: I can cook a mean pasta and enjoy coding while listening to motivational podcasts!
+
+- 💬 Have a look at my [Portfolio]()
    
-</div>
-
-
-
 
 <br />
 <br />
@@ -44,12 +52,20 @@
 <br />
 <br />
 
+<br />
+
 <h2> <img width="40px" style="border-radius:50%" src="https://github.com/user-attachments/assets/e3e6b2ec-ef21-4eac-b6c8-d4c250500bd5" /> My Github Stats</h2>
 
-<br />
-<div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek3042&" alt="abhishek3042" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek3042&show_icons=true&locale=en" alt="abhishek3042" />
+<div align="center" style="display: flex; gap:50px">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek3042&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek3042&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
 </div>
-<div style="align-content="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek3042&show_icons=true&locale=en&layout=compact" alt="abhishek3042" /></div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=abhishek3042&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
 
